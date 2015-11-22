@@ -1,0 +1,24 @@
+#logo{
+  display: block;
+  margin:auto;
+  width:80px;
+}
+
+#video_list li{
+  cursor: pointer;
+}
+
+#video_list img{
+  margin : 8px;
+  padding : 3px;
+  border: 1px solid #ccc;
+}
+
+#videolist h3{
+  margin-left: 10px;
+}
+
+#show_video{
+  width: 100%;/* means 100% of its div which id of the content div,my words dont make sense*/
+  margin: 15px 0 15px 0;
+}
